@@ -1,3 +1,3 @@
 # StudyBuddyProject
-A platform where users can study together. 
-Author : Yug/Raunak.
+A platform where users can study together. <br />
+<span style="color:green">Author : Yug/Raunak. </span>
